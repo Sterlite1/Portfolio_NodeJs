@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is a demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "author": "John Gbagbeke",
+  "license": "ISC"
+}
